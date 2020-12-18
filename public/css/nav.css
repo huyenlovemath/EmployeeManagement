@@ -76,7 +76,7 @@ nav{
 }
 
 #sidemenu ul li a:hover .fa, #sidemenu ul li a:hover div{
-    color: rgb(14, 235, 98);
+    color: #fff;
 }
 
 /* Toggle menu on mobile size */

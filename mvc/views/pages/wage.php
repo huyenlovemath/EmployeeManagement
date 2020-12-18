@@ -60,7 +60,7 @@
                     <th style="width: 90px">Ngày công</th>
                     <th style="width: 150px">Tiền lương</th>
                     <th style="width: 150px">Tiền bảo hiểm</th>
-                    <th style="width: 150px">Phụ cấp</th>
+                    <th style="width: 150px">Tiền phụ cấp</th>
                     <th style="width: 180px">Thực nhận</th>
                 </tr>
             </thead>

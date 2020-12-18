@@ -7,7 +7,7 @@
 
     // Convert type of Account to Vietnamese
     define('ADMIN', 'admin');
-    define('MANAGER', 'Phòng ban');
+    define('MANAGER', 'Trưởng phòng');
     define('ACCOUNTANT', 'Nhân viên kế toán');
     define('PERSONNEL', 'Nhân viên nhân sự');
 
